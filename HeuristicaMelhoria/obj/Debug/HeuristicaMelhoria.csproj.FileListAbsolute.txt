@@ -1,0 +1,7 @@
+C:\Users\Johnatan\Documents\Faculdade santo agostinho\7 periodo\Petronio\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaMelhoria.dll
+C:\Users\Johnatan\Documents\Faculdade santo agostinho\7 periodo\Petronio\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaMelhoria.pdb
+C:\Users\Johnatan\Documents\Faculdade santo agostinho\7 periodo\Petronio\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaConstrutiva.dll
+C:\Users\Johnatan\Documents\Faculdade santo agostinho\7 periodo\Petronio\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaConstrutiva.pdb
+C:\Users\Johnatan\Documents\Faculdade santo agostinho\7 periodo\Petronio\Heuristicas\HeuristicaMelhoria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Johnatan\Documents\Faculdade santo agostinho\7 periodo\Petronio\Heuristicas\HeuristicaMelhoria\obj\Debug\HeuristicaMelhoria.dll
+C:\Users\Johnatan\Documents\Faculdade santo agostinho\7 periodo\Petronio\Heuristicas\HeuristicaMelhoria\obj\Debug\HeuristicaMelhoria.pdb
